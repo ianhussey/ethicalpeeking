@@ -19,14 +19,14 @@ All the real, hard work (conceptualisation of paugmented, writing of functions, 
 ## Install guide for R/Rstudio
 
 ```R
-# install packages (first time only)
+# devtools allows you to install packages from github
 install.packages("devtools")
-install_github("ianhussey/ethicalpeeking")
-
-# load packages
 library("devtools")
+
+# install package
+install_github("ianhussey/ethicalpeeking")
 library("ethicalpeeking")
 
-# documentation
+# view documentation
 ?paugmented
 ```
