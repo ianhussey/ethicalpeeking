@@ -1,0 +1,10 @@
+Package: ethicalpeeking
+Title: Calculate paugmented, pcrit, and pactual.
+Version: 0.1
+Authors@R: person("Ian", "Hussey", email = "ian.hussey@ugent.be", role = c("cre"))
+Description: This package contains functions to calculate the statistics discussed in Sagarin, Ambler, and Lee's (2014, Perspectives on Psychological Science, 9, 293-304) "An Ethical Approach to Peeking at Data". See http://www.paugmented.com/
+Depends: R (>= 3.3.2)
+License: GPLv3+
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
